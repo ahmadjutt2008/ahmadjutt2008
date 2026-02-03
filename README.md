@@ -5,7 +5,7 @@ I build clean, responsive, and user-focused web applications.
 Currently improving my skills through real-world projects and consistent practice.
 
 ---
-    
+     
 # 💫 About Me:
 🔭 I’m currently working on Building real-world, responsive websites and completing a consistency-based web development challenge.<br><br>👯 I’m looking to collaborate on Frontend projects, portfolio websites, landing pages, and beginner-friendly open-source projects.<br><br>🤝 I’m looking for help with Backend optimization, APIs, and writing cleaner, scalable code.<br><br>🌱 I’m currently learning Advanced JavaScript, PHP & MySQL, responsive UI/UX, and modern web workflows.<br><br>💬 Ask me about HTML, CSS, JavaScript, responsive design, website layouts, and project structuring.<br><br>⚡ Fun fact I believe consistency beats motivation, so I focus on showing up every day and shipping projects.
 
